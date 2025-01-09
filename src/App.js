@@ -1,4 +1,4 @@
-import logo from './ooji-color-logo.png';
+import logo from './assets/ooji-color-logo.png';
 import './App.css';
 
 function App() {
